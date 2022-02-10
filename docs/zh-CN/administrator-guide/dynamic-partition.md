@@ -60,7 +60,7 @@ under the License.
     )
     ```
 
-* 运行时修改
+* 运行时修改：
 
     ```
     ALTER TABLE tbl1 SET
